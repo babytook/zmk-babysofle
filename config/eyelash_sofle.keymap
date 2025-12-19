@@ -66,11 +66,11 @@
 
         layer_1 {
             bindings = <
-&kp TILDE        &kp F1         &kp F2    &kp F3      &kp F4     &kp F5      &mmv MOVE_UP     &kp F6     &kp F7  &kp F8        &kp F9            &kp F10               &trans
-&rgb_ug RGB_TOG  &kp GRAVE      &kp UP    &trans      &trans     &kp HOME    &mmv MOVE_DOWN   &kp PG_UP  &trans  &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans
-&rgb_ug RGB_EFF  &kp LEFT       &kp DOWN  &kp RIGHT   &trans     &kp END     &mmv MOVE_LEFT   &kp PG_DN  &trans  &trans        &kp SEMICOLON     &kp SQT               &trans
-&trans           &kp BACKSPACE  &kp DEL   &kp K_CALC  &kp ENTER  &kp F11     &mmv MOVE_RIGHT  &kp F12    &trans  &kp UP_ARROW  &kp EQUAL         &kp NON_US_BACKSLASH  &trans
-&kp C_MUTE       &trans         &trans    &trans      &trans     &trans      &mkp LCLK        &trans     &trans  &kp LEFT      &kp DOWN          &kp RIGHT
+&kp TILDE        &kp F1         &kp F2    &kp F3            &kp F4     &kp F5      &mmv MOVE_UP     &kp F6     &kp F7  &kp F8        &kp F9            &kp F10               &trans
+&rgb_ug RGB_TOG  &kp GRAVE      &kp UP    &trans            &trans     &kp HOME    &mmv MOVE_DOWN   &kp PG_UP  &trans  &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans
+&rgb_ug RGB_EFF  &kp LEFT       &kp DOWN  &kp RIGHT         &trans     &kp END     &mmv MOVE_LEFT   &kp PG_DN  &trans  &trans        &kp SEMICOLON     &kp SQT               &trans
+&trans           &kp BACKSPACE  &kp DEL   &kp K_CALCULATOR  &kp ENTER  &kp F11     &mmv MOVE_RIGHT  &kp F12    &trans  &kp UP_ARROW  &kp EQUAL         &kp NON_US_BACKSLASH  &trans
+&kp C_MUTE       &trans         &trans    &trans            &trans     &trans      &mkp LCLK        &trans     &trans  &kp LEFT      &kp DOWN          &kp RIGHT
             >;
 
             display-name = "layer1";
