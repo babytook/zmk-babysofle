@@ -57,11 +57,11 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - F5
   - $$mdi:apple-keyboard-option$$
+  - $$mdi:keyboard-space$$
   - layer1
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
   - layer2
+  - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-option$$
   - LWIN
   - {t: /, s: '?'}
@@ -108,7 +108,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:backspace-reverse-outline$$
-  - CALCULATOR
+  - AL CALCULATOR
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - F11
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
@@ -122,8 +122,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -190,8 +190,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
-  - $$mdi:apple-keyboard-control$$
   - {type: held}
+  - $$mdi:apple-keyboard-control$$
   - KP 0
   - KP DOT
   - KP ENTER
